@@ -1,0 +1,30 @@
+rule_type,applies_to,city_class,value,condition_or_note,order
+HRA,X class cities,,30% of basic pay,Applies once DA has crossed 50%,"DoE OM, 7 July 2017"
+HRA,Y class cities,,20% of basic pay,Applies once DA has crossed 50%,"DoE OM, 7 July 2017"
+HRA,Z class cities,,10% of basic pay,Applies once DA has crossed 50%,"DoE OM, 7 July 2017"
+HRA,Ghaziabad,,X rate (Delhi's rate),Counts as X for HRA; para 6 of the OM per our code comment,"DoE OM 7 Jul 2017, para 6"
+Transport allowance (higher-rate city),Level 9 and above,,"Rs 7,200 per month plus DA",Base before DA,"DoE OM No. 21/5/2017-E.II(B), 7 July 2017"
+Transport allowance (other city),Level 9 and above,,"Rs 3,600 per month plus DA",Base before DA,"DoE OM No. 21/5/2017-E.II(B), 7 July 2017"
+Transport allowance (higher-rate city),"Level 3 to 8, and Level 1-2 drawing pay of Rs 24,200 or more",,"Rs 3,600 per month plus DA",Base before DA,"DoE OM No. 21/5/2017-E.II(B), 7 July 2017"
+Transport allowance (other city),"Level 3 to 8, and Level 1-2 drawing pay of Rs 24,200 or more",,"Rs 1,800 per month plus DA",Base before DA,"DoE OM No. 21/5/2017-E.II(B), 7 July 2017"
+Transport allowance (higher-rate city),Level 1-2 (other),,"Rs 1,350 per month plus DA",Base before DA,"DoE OM No. 21/5/2017-E.II(B), 7 July 2017"
+Transport allowance (other city),Level 1-2 (other),,Rs 900 per month plus DA,Base before DA,"DoE OM No. 21/5/2017-E.II(B), 7 July 2017"
+Higher-TA city list,Delhi,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Mumbai,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Kolkata,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Chennai,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Bengaluru,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Hyderabad,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Ahmedabad,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Pune,X,higher TA rate applies,8 X cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Ghaziabad,X (for HRA),higher TA rate applies,X rate for HRA,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Patna,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Surat,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Kochi,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Kozhikode,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Indore,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Nagpur,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Jaipur,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Coimbatore,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Kanpur,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
+Higher-TA city list,Lucknow,Y,higher TA rate applies,10 Y cities,DoE OMs of 7 Jul / 2 Aug 2017
