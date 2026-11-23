@@ -12,6 +12,7 @@ Last updated: 12 Nov 2026
 | `da-history-central.csv` | Central government DA rates (% of basic pay) under the 7th CPC, 1 Jan 2016 to 1 Jul 2026, one row per revision, with the DoE OM, the PDF opened and a status | 21 DoE (E.II(B)) OMs, from No. 1/2/2016-E-II (B), 4 Nov 2016 to No. 1/2(i)/2026-E.II(B), 29 Oct 2026; see "DA history: checks and gaps" |
 | `hra-transport-rules.csv` | HRA rates by city class, transport allowance by level, the 19 higher-TA cities | HRA: DoE OM, 7 July 2017. Transport allowance: DoE OM No. 21/5/2017-E.II(B), 7 July 2017. City list: DoE OMs of 7 Jul / 2 Aug 2017 |
 | `central-pay-vs-cpi-iw-2016-2026.csv` | Central pay vs prices, Jan 2016 to 2026, monthly: CPI-IW (published and linked to a 2016 base), DA due and DA paid, and the real value of pay. Data dictionary and method: `central-pay-vs-cpi-iw-2016-2026.README.md`. Article: https://paisatools.co.in/research/central-pay-vs-prices-2016-2026 (added 23 Nov 2026) | Labour Bureau CPI-IW releases and annual reports; DoE (E.II(B)) DA OMs; per-row source columns |
+| `budget-be-vs-actual-2024-25.csv` | Union Budget 2024-25: Budget Estimate (July 2024) vs Actuals for every demand for grants, Rs crore, with the share spent. Data dictionary: `budget-be-vs-actual-2024-25.README.md`. Article: https://paisatools.co.in/research/union-budget-2024-25-allocation-vs-spending (added 23 Nov 2026) | Expenditure Profile 2024-25, 2025-26 and 2026-27 (Statement 3); Budget at a Glance 2024-25, 2025-26 and 2026-27 (indiabudget.gov.in); per-row source columns |
 
 ## How the data was made
 
