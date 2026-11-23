@@ -11,6 +11,7 @@ Last updated: 12 Nov 2026
 | `pay-matrix-7cpc.csv` | 7th CPC pay matrix: level, cell, basic pay in INR (540 cells, Levels 1 to 18 incl. 13A) | CCS (Revised Pay) Rules, 2016, Schedule, Part A, Ministry of Finance notification 25 July 2016 (Gazette of India No. 512, G.S.R. 721(E)). Level 13 is the amended row: CCS (Revised Pay) (Amendment) Rules, 2017, G.S.R. 592(E), 15 June 2017 (w.e.f. 1 Jan 2016); the Level 13 rows carry that in their `source` column. |
 | `da-history-central.csv` | Central government DA rates (% of basic pay) under the 7th CPC, 1 Jan 2016 to 1 Jul 2026, one row per revision, with the DoE OM, the PDF opened and a status | 21 DoE (E.II(B)) OMs, from No. 1/2/2016-E-II (B), 4 Nov 2016 to No. 1/2(i)/2026-E.II(B), 29 Oct 2026; see "DA history: checks and gaps" |
 | `hra-transport-rules.csv` | HRA rates by city class, transport allowance by level, the 19 higher-TA cities | HRA: DoE OM, 7 July 2017. Transport allowance: DoE OM No. 21/5/2017-E.II(B), 7 July 2017. City list: DoE OMs of 7 Jul / 2 Aug 2017 |
+| `central-pay-vs-cpi-iw-2016-2026.csv` | Central pay vs prices, Jan 2016 to 2026, monthly: CPI-IW (published and linked to a 2016 base), DA due and DA paid, and the real value of pay. Data dictionary and method: `central-pay-vs-cpi-iw-2016-2026.README.md`. Article: https://paisatools.co.in/research/central-pay-vs-prices-2016-2026 (added 23 Nov 2026) | Labour Bureau CPI-IW releases and annual reports; DoE (E.II(B)) DA OMs; per-row source columns |
 
 ## How the data was made
 
@@ -33,6 +34,7 @@ Corrections: https://paisatools.co.in/contact
 - `pay-matrix-7cpc.csv`: 540 data rows (19 levels).
 - `da-history-central.csv`: 23 data rows (see below).
 - `hra-transport-rules.csv`: 29 data rows (4 HRA, 6 transport allowance, 19 cities).
+- `central-pay-vs-cpi-iw-2016-2026.csv`: 129 data rows.
 - 5 random pay-matrix rows spot-checked against `src/data/pay-matrix-7cpc.ts`, all matched: L13 cell 13 = 175500; L7 cell 36 = 126600; L9 cell 39 = 162900; L4 cell 27 = 55100; L10 cell 31 = 136000.
 
 ## Gaps
